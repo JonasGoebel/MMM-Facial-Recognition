@@ -65,4 +65,4 @@ class OpenCVCapture(object):
         return frame
         
     def stop(self):
-        print '{"status":"Terminating..."}'
+        print('{"status":"Terminating..."}')
