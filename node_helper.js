@@ -1,7 +1,7 @@
 'use strict';
 const NodeHelper = require('node_helper');
 
-const PythonShell = require('python-shell');
+const {PythonShell} = require('python-shell');
 var pythonStarted = false
 
 module.exports = NodeHelper.create({
