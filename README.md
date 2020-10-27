@@ -1,6 +1,14 @@
 # MMM-Facial-Recognition
 This an extension for the [MagicMirror](https://github.com/MichMich/MagicMirror). It provides facial recognition and module swaping based on the current user.
 
+---
+
+## Forked version
+
+This repository was forked because the original had bugs that prevented a clean installation or runtime. The original reposiory isn't maintained since 2017.
+
+---
+
 ## Usage
 To train the needed model use the [MMM-Facial-Recognition-Tools](https://github.com/paviro/MMM-Facial-Recognition-Tools).
 
